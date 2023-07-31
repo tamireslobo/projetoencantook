@@ -1,0 +1,24 @@
+.Titulo{
+    text-align: center;
+    font-family: 'Miltonian Tattoo', sans-serif;
+    font-size: 100px;
+    color: #ffffff;
+  }
+
+  .Subtitulo{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #ffffff;
+   }
+  .img-27 * {
+    box-sizing: border-box;
+  }
+  .img-27 {
+    width: 100px;
+    top: -10px;
+    height: 100px;
+    position: absolute;
+  }
+  
+  body{
+    background-color: #57C4DC;
+  }

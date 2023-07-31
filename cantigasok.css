@@ -1,0 +1,234 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Miltonian Tattoo', cursive;
+}
+
+header {
+    justify-content: space-between;
+    background-color: #81A7C2;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+
+   padding: 40px;
+   border-bottom: 5px solid #18454A; 
+
+
+}
+#home-buton {
+    margin-bottom: -20px;
+    margin-right: 300px;
+   
+
+}
+
+#titulo {
+    display: inline ;
+    margin-right: 400px;
+    
+
+}
+.subtitulo{
+    display:block;
+    font-size: 20px;
+    font-weight: 100; /* espessura do texto */
+
+}
+
+/* Cantigas c img */
+
+.pagina {
+    background-color: #C0E0F7;
+    min-height: 90vh; /* Indica que essa parte "pagina" vai ser x% da tela */
+    padding: 20px;
+}
+.cantigas-da-pagina {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.cantigas {
+    width: 12%;
+    margin: 5% 1%;
+    display: inline-block;
+    padding: -30px 9px;
+    border-bottom: 5px solid #18454A; 
+    border-right: 5px solid #18454A ;
+    border-left: 2px solid #18454A;
+    border-top: 2px solid #18454A ;
+    /*arredondamento*/
+    border-radius: 5px ;
+    
+    border-bottom-left-radius: 14px ;
+    border-bottom-right-radius: 14px ;
+}
+
+.cantiga-img {
+    height: 300px;
+    width: 110%; /*100% do espaço disponivel dentro da classe. Obs: width de cantigas decrescida de sua padding*/
+    margin-bottom: -30px; /* afasta a imagem do nome embaixo */
+    background-position: center ;/* centralizar mhs imagens */
+    background-size: auto  ; /* pelo fato das imagens serem grandes, isso vai fazer o max possivel no espaço disp */
+    background-size: 80px;
+    
+    
+
+}
+
+#img-1 {
+    background-image: url('img/img-1.png') ;
+    background-repeat: no-repeat;
+    
+}
+
+#img-2 {
+    background-image: url('img/img-2.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+#img-3 {
+    background-image: url('img/img-3.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-4 {
+    background-image: url('img/img-4.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-5 {
+    background-image: url('img/img-5.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+#img-6 {
+    background-image: url('img/img-6.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+#img-7 {
+    background-image: url('img/img-7.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-8 {
+    background-image: url('img/img-8.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-9 {
+    background-image: url('img/img-9.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+#img-10 {
+    background-image: url('img/img-10.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-11 {
+    background-image: url('img/img-11.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-12 {
+    background-image: url('img/img-12.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-13 {
+    background-image: url('img/img-13.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-14 {
+    background-image: url('img/img-14.png') ;
+    background-repeat: no-repeat;
+}
+
+#img-15 {
+    background-image: url('img/img-15.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+#img-16 {
+    background-image: url('img/img-16.png') ;
+    background-repeat: no-repeat;
+    background-size: 140px;
+}
+
+#img-17 {
+    background-image: url('img/img-17.png') ;
+    background-repeat: no-repeat;
+    background-size: 140px;
+}
+
+#img-18 {
+    background-image: url('img/img-18.png') ;
+    background-repeat: no-repeat;
+    background-size: 160px;
+}
+
+#img-19 {
+    background-image: url('img/img-19.png') ;
+    background-repeat: no-repeat;
+    background-size: 140px;
+    margin-top: -25px;
+}
+
+#img-20 {
+    background-image: url('img/img-20.png') ;
+    background-repeat: no-repeat;
+    background-size: 140px;
+    margin-top: -25px;
+}
+
+#img-21 {
+    background-image: url('img/img-21.png') ;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+}
+
+/* Titulos das cantigas */
+
+.btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #18454A;
+    background-color: #fff;
+    padding: 10px;
+    
+    
+    border-radius: 6px;
+    border-top-right-radius: 1%;
+    transition: 0.5s;
+    font-size: 21px;
+ 
+}
+
+.btn:hover {
+    background-color: #18454A;
+    color: #fff;
+}
+
+.volt img{
+
+    font-size: 20px;
+    position: absolute;
+    font-family: Miltonian Tattoo;
+     left: 40px;
+      top: 50px;
+       width: 150px;
+        height: 142px;
+         text-align: center; 
+         color: rgb(25, 92, 54);
+}

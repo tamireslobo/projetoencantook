@@ -1,0 +1,227 @@
+.body{
+    background-color: #c0f1f7;
+        height: 100vw;
+        width: 100vh;
+        margin: 0%;
+        margin-top: 0%;
+    }
+    
+    .fundo{
+        position: relative;
+        width: 100vw;
+        height: 100vw;
+        background-color: #c0f1f7;
+        
+    }
+    
+    
+    .fabulas{
+        text-align: center;
+        position: absolute;
+        left: 450px;
+        top: 50px;
+        font-size: 110px;
+        font-family: Miltonian Tattoo;
+        color: rgb(25, 92, 54)
+    
+    }
+    
+    .container{
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    
+    .cig img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 215px;
+        left: 70px;
+    }
+    
+    .btncig{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 80px;
+             top:550px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    
+    .cao img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 215px;
+        left: 500px;
+    }
+    
+    .btncao{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 515px;
+             top: 550px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    .burro img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 215px;
+        left: 930px;
+    }
+    
+    .btnburro{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 945px;
+             top: 550px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    .leao img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 700px;
+        left: 70px;
+    }
+    
+    .btnleao{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 80px;
+             top: 1030px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    
+    .urso img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 700px;
+        left: 500px;
+    }
+    
+    .btnurso{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 515px;
+             top: 1030px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    .lebre img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        top: 700px;
+        left: 930px;
+    }
+    .btnlebre{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 945px;
+             top: 1030px;
+              width: 230px;
+               height: 14px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(25, 92, 54)
+    }
+    
+    .voltar img{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         text-decoration: none;
+          font-size: 20px;
+           position: absolute;
+            left: 50px;
+             top: 40px;
+              width: 150px;
+               height: 142px;
+                text-align: center;
+                 display: flex;
+                  justify-content: center;
+                   align-items: center;
+                   color: rgb(26, 25, 92)
+    }
+    
+    .arbusto img{
+        top: 1000px;
+        left: -160px;
+        width: 600px;
+        height: 400px;
+        margin: 0%;
+        position: absolute;
+    }
+    .arbusto2 img{
+        top: 1000px;
+        left: 250px;
+        width: 600px;
+        height: 400px;
+        margin: 0%;
+        position: absolute;
+    }
+    .arbusto3 img{
+        top: 1000px;
+        left: 620px;
+        width: 600px;
+        height: 400px;
+        margin: 0%;
+        position: absolute;
+    }
+    .arbusto4 img{
+        top: 1000px;
+        left: 1000px;
+        width: 600px;
+        height: 400px;
+        margin: 0%;
+        position: absolute;
+    }

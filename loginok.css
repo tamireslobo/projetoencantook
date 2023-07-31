@@ -1,0 +1,299 @@
+body{
+
+    background-color: #C0F1F7;
+
+}
+
+
+.retangulodecima {
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 1565px;
+    height: 250px;
+    left: -200px;
+    top: -25px;
+    
+    background: #C0F1F7;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    border-radius: 20px;
+
+}
+
+
+.logo {
+
+    width: 202px;
+    height: 202px;
+    position: absolute;
+    left: 25px;
+    top: 5px;
+    
+}
+
+
+.encanto {
+    color: #203E12;
+    text-align: center;
+    font-family: 'Miltonian Tattoo', cursive;
+    font-size: 140px;
+    position: absolute;
+    left: 195px;
+    top: 20px;
+    width: 1093px;
+    height: 182px;
+}
+
+
+.estrela1 {
+
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    left: 340px;
+    top: 140px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+}
+   
+   
+.estrela2 {
+   
+       width: 64px;
+       height: 64px;
+       position: absolute;
+       left: 1140px;
+       top: 20px;
+   
+}
+
+
+.rectgoogle {
+ background: #c0f1f7;
+ border-radius: 25px;
+ border-style: solid;
+ border-color: #203e12;
+ border-width: 3px;
+ width: 96px;
+ height: 92px;
+ position: absolute;
+ left: 728px;
+ top: 347px;
+}
+
+
+.rectface {
+ background: #c0f1f7;
+ border-radius: 25px;
+ border-style: solid;
+ border-color: #203e12;
+ border-width: 3px;
+ width: 97px;
+ height: 92px;
+ position: absolute;
+ left: 886px;
+ top: 347px;
+}
+
+
+.facebook {
+ width: 82px;
+ height: 81px;
+ position: absolute;
+ left: 897px;
+ top: 356px;
+}
+
+
+.entrar-com {
+ color: #203e12;
+ text-align: center;
+ font: 400 35px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ position: absolute;
+ left: 720px;
+ top: 267px;
+ width: 269px;
+ height: 73px;
+}
+
+
+.google {
+ width: 53px;
+ height: 53px;
+ position: absolute;
+ left: 752px;
+ top: 370px;
+}
+
+
+.ou{
+
+    color: #203e12;
+    text-align: center;
+    font: 400 30px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 720px;
+    top: 455px;
+    width: 269px;
+    height: 73px;
+
+
+}
+
+
+.quadradocadastro{
+
+    
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #203e12;
+    border-width: 2px;
+    width: 320px;
+    height: 340px;
+    position: absolute;
+    left: 695px;
+    top: 250px;
+
+    
+}
+ 
+
+.quadradologin{
+
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #203e12;
+    border-width: 2px;
+    width: 320px;
+    height: 340px;
+    position: absolute;
+    left: 330px;
+    top: 250px;
+
+
+}
+
+
+.entrar {
+    
+    color: #203e12;
+    text-align: center;
+    font: 400 35px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 422px;
+    top: 307px;
+    width: 148px;
+    height: 45px;
+}
+
+                             /*   FORM LOGIN  */
+.email{
+
+    color: #203e12;
+    text-align: left;
+    font: 400 25px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 350px;
+    top: 400px;
+    width: 217px;
+    height: 45px;
+
+}
+
+
+.senha{
+
+    color: #203e12;
+    text-align: left;
+    font: 400 25px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 350px;
+    top: 463px;
+    width: 217px;
+    height: 45px;
+
+
+}
+
+
+.input1{
+
+    background: #ffffff;
+    border-color: #203E12;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    left: 430px;
+    top: 392px;
+    font-size: 20px;
+
+}
+
+
+.input2{
+
+    background: #ffffff;
+    border-color: #203E12;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    left: 430px;
+    top: 455px;
+    font-size: 25px;
+
+}
+
+
+.btentrar{
+
+    background: #c0f1f7;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #203E12;
+    border-width: 4px;
+    width: 150px;
+    height: 44px;
+    position: absolute;
+    left: 417px;
+    top: 520px;
+
+    color: #203e12;
+    text-align: center;
+    font: 900 25px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.btcriarconta{
+
+    background: #c0f1f7;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #203E12;
+    border-width: 4px;
+    width: 215px;
+    height: 54px;
+    position: absolute;
+    left: 745px;
+    top: 510px;
+    
+    color: #203e12;
+    text-align: center;
+    font: 900 30px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+
+}
+

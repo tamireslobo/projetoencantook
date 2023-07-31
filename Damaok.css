@@ -1,0 +1,69 @@
+.Titulo{
+    text-align-last: center ;
+    font-family: 'Miltonian Tattoo', sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+
+
+  }
+
+  .img-27 * {
+    box-sizing: border-box;
+  }
+  .img-27 {
+    width: 100px;
+    top: -10px;
+    height: 100px;
+    position: absolute;
+  }
+
+  body{
+    background-color: #57C4DC;
+  }
+
+
+
+
+  a {
+    text-decoration: none;
+    outline: none;
+}
+
+a img {
+    border: none;
+}
+
+.caption {
+	display: inline-block;
+	position: relative;
+	margin: 70px;
+}
+
+.caption img {
+	display: block;
+	max-width: 100%;
+}
+
+.caption::before,
+.caption::after {
+	position: absolute;
+	left: 110%;
+	width: 350%;
+	font-family: 'Mina', sans-serif;;
+}
+
+.caption::before {
+	content: attr(data-title);
+	top: 0;
+	height: 25%;
+	padding: 5px 30px 15px 10px;
+	font-size: 40px;
+
+}
+
+.caption::after {
+	content: attr(data-description);
+	top: 25%;
+	padding: 20px 10px 0;
+	font-size: 18px;
+}
