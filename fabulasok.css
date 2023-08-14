@@ -1,18 +1,11 @@
-.body{
-    background-color: #c0f1f7;
-        height: 100vw;
-        width: 100vh;
-        margin: 0%;
-        margin-top: 0%;
+body{
+        background-color: #c0f1f7;
+        height: 100%;
+        width: 100%;
+        margin-top: -8%;
     }
     
-    .fundo{
-        position: relative;
-        width: 100vw;
-        height: 100vw;
-        background-color: #c0f1f7;
-        
-    }
+    
     
     
     .fabulas{
@@ -37,7 +30,7 @@
         height: 300px;
         position: absolute;
         top: 215px;
-        left: 70px;
+        left: 100px;
     }
     
     .btncig{
@@ -45,7 +38,7 @@
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 80px;
+            left: 110px;
              top:550px;
               width: 230px;
                height: 14px;
@@ -62,7 +55,7 @@
         height: 300px;
         position: absolute;
         top: 215px;
-        left: 500px;
+        left: 620px;
     }
     
     .btncao{
@@ -70,7 +63,7 @@
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 515px;
+            left: 630px;
              top: 550px;
               width: 230px;
                height: 14px;
@@ -86,7 +79,7 @@
         height: 300px;
         position: absolute;
         top: 215px;
-        left: 930px;
+        left: 1150px;
     }
     
     .btnburro{
@@ -94,7 +87,7 @@
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 945px;
+            left: 1162px;
              top: 550px;
               width: 230px;
                height: 14px;
@@ -110,7 +103,7 @@
         height: 300px;
         position: absolute;
         top: 700px;
-        left: 70px;
+        left: 100px;
     }
     
     .btnleao{
@@ -118,7 +111,7 @@
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 80px;
+            left: 110px;
              top: 1030px;
               width: 230px;
                height: 14px;
@@ -135,7 +128,7 @@
         height: 300px;
         position: absolute;
         top: 700px;
-        left: 500px;
+        left: 620px;
     }
     
     .btnurso{
@@ -143,7 +136,7 @@
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 515px;
+            left: 630px;
              top: 1030px;
               width: 230px;
                height: 14px;
@@ -159,14 +152,14 @@
         height: 300px;
         position: absolute;
         top: 700px;
-        left: 930px;
+        left: 1150px;
     }
     .btnlebre{
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
          text-decoration: none;
           font-size: 20px;
            position: absolute;
-            left: 945px;
+            left: 1162px;
              top: 1030px;
               width: 230px;
                height: 14px;
@@ -196,7 +189,7 @@
     .arbusto img{
         top: 1000px;
         left: -160px;
-        width: 600px;
+        width: 300px;
         height: 400px;
         margin: 0%;
         position: absolute;
@@ -204,7 +197,7 @@
     .arbusto2 img{
         top: 1000px;
         left: 250px;
-        width: 600px;
+        width: 300px;
         height: 400px;
         margin: 0%;
         position: absolute;
@@ -212,7 +205,7 @@
     .arbusto3 img{
         top: 1000px;
         left: 620px;
-        width: 600px;
+        width: 300px;
         height: 400px;
         margin: 0%;
         position: absolute;
@@ -220,7 +213,7 @@
     .arbusto4 img{
         top: 1000px;
         left: 1000px;
-        width: 600px;
+        width: 300px;
         height: 400px;
         margin: 0%;
         position: absolute;
