@@ -1,0 +1,72 @@
+*{
+    font-family: Miltonian Tattoo, cursive;
+   
+}
+body{
+    background-color: #C0E0F7 ;
+}
+/*PALETA DE CORES*/
+.bg-primary-color{
+    background-color: #81A7C2;
+}
+.bg-secundary-color{
+    background-color: #C0E0F7;
+}
+.bg-dark-color{
+    background-color: #050505;
+}
+
+.primary-color{
+    color: #fff;
+}
+.secundary-color{
+    color: #7a7a7a;
+}
+/* NAvbar */
+#navbar{
+    border-bottom: 1px solid #7a7a7a; 
+   
+    width: 100%;
+   
+    
+}
+
+#navbar a:hover {
+    color: #18454A;
+}
+#navbar a.active{
+    border-bottom: 1px solid #050505;
+    color: #c0c0c0;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.navbar-brand span{ /*Encanto*/
+    font-weight: 700;
+    font-size: 2em;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    
+}
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+a.nav-link{
+    color: #fff;
+}
+
+#navbar-items .nav-item{
+    margin: 0 2em;
+    
+}
+/* Sliders*/
+
+.carouselExampleCaptions{
+    width: 100px;
+    height: 100px;
+}
+
